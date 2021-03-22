@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 import pickle
 from flask import Flask, request
